@@ -16,6 +16,7 @@ p {
   font-family: Arial
 }
 th, td {
+  width: 100rem;
   padding: 8px;
   text-align: left;
   border-bottom: 1px solid #ddd;
